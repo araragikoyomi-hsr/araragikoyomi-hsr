@@ -31,6 +31,7 @@ Data Structures & Algorithms · Responsive Web Design · Linux (Arch & Debian) �
 ### 🛠️ Featured Projects
 #### 🔔 Automation Notifier  
 A **full-stack mobile application** built with **NestJS + Expo**.  
+**Technologies:** `NestJS` `Expo` `Auth0` `Slack API` `Webhooks` `Real-time Notifications`  
 - Auth0-based authentication  
 - Webhook generation  
 - Slack integration  
@@ -38,6 +39,7 @@ A **full-stack mobile application** built with **NestJS + Expo**.
 
 #### 📱 Cross-Platform Mobile App *(Salesken.ai)*  
 Developed with **React Native (Expo)** using modular architecture.  
+**Technologies:** `React Native` `Expo` `Zustand` `Role-based Auth` `Real-time Calls` `CDR Sync` `Performance Optimization`  
 - Role-based authentication & authorization  
 - Real-time call features & CDR synchronization  
 - Global state management with Zustand  
@@ -45,14 +47,17 @@ Developed with **React Native (Expo)** using modular architecture.
 
 #### 💻 Desktop Application *(Salesken.ai)*  
 A **cross-platform Electron.js app**.  
+**Technologies:** `Electron.js` `Auth0` `Dynamic Theming` `Cross-Platform`  
 - Secure authentication with Auth0  
 - Dynamic theming for improved UX  
 
 #### 📊 Sales Assistance Dashboard *(Salesken.ai)*  
 Built with **React + Socket.IO**.  
+**Technologies:** `React` `Socket.IO` `TanStack Query` `Real-time Insights` `Reusable API Hooks`  
 - Real-time sales insights  
 - Live cue delivery  
 - Reusable API hooks with TanStack Query  
+
 
 ---
 
